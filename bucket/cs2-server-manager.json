@@ -1,5 +1,4 @@
 {
-    "##": "cs2-server-manager",
     "version": "0.0.4",
     "description": "Cross-platform TUI CS2 server picker and manager written in Go.",
     "homepage": "https://github.com/dom1torii/cs2-server-manager",
