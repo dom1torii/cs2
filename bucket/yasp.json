@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/dom1torii/yet-another-server-picker/releases/download/$version/yet-another-server-picker_Windows_x86_64.zip",
-            "hash": "sha256:14fdadd647ebe0710cbad9e3ff7efa3d846df5fa709f55c1f27d7194ca94cffe"
+            "hash": "sha256:82e6b99140e532de3e7e7143f69c8f63db47024ee11df8a575989fc95b015db0"
         }
     },
     "bin": "yasp.exe",
