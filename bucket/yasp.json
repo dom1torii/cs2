@@ -1,0 +1,20 @@
+{
+    "version": "0.0.5",
+    "description": "Cross-platform TUI CS2 server picker written in Go",
+    "homepage": "https://github.com/dom1torii/yet-another-server-picker",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dom1torii/yet-another-server-picker/releases/download/$version/yet-another-server-picker_Windows_x86_64.zip",
+            "hash": "sha256:14fdadd647ebe0710cbad9e3ff7efa3d846df5fa709f55c1f27d7194ca94cffe"
+        }
+    },
+    "bin": "yasp.exe",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/dom1torii/yet-another-server-picker/releases/download/$version/yet-another-server-picker_Windows_x86_64.zip"
+            }
+        }
+    }
+}
